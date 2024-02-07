@@ -37,5 +37,3 @@ Data is my passion and my profession. As a Cloud and BI Engineer at Roots, I opt
 - **GitHub**: [saichandu415](https://github.com/saichandu415)
 - **Email**: saichandu@example.com
 
-## **📊 GitHub Stats 📊**
-![Sai Chandu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saichandu415&show_icons=true&hide_border=true)
