@@ -24,8 +24,7 @@ Data is my passion and my profession.Experienced Data Engineer, BI, and Azure En
 - **Tools & Platforms**: Git, Docker, AWS, Google Cloud Platform
 
 ## **🎓 Education 🎓**
-- **Bachelor of Technology in Computer Science and Engineering**, University of ABC, GPA: 3.8/4.0
-
+- **Bachelor of Technology in Electronics and Communications Engineering**, Jawaharlal Nehru Technological University
 ## **👨‍💼 Certificates 👨‍💼**
 - **Power BI Data Modeling with DAX** - LinkedIn 
 - **Data Engineering Foundations** - LinkedIn
