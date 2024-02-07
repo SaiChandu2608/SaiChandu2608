@@ -33,7 +33,7 @@ Data is my passion and my profession. As a Cloud and BI Engineer at Roots, I opt
 - **Data Engineering with AWS** - LinkedIn
 
 ## **📫 Let's Connect! 📫**
-- **LinkedIn**: [Sai Chandu](https://www.linkedin.com/in/saichandu415)
+- **LinkedIn**: [Sai Chandu](https://www.linkedin.com/in/sai-chandu-400580296/))
 - **GitHub**: [saichandu415](https://github.com/saichandu415)
-- **Email**: saichandu@example.com
+- **Email**: sai.chandu2608@outlook.com
 
