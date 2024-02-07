@@ -34,6 +34,6 @@ Data is my passion and my profession. As a Cloud and BI Engineer at Roots, I opt
 
 ## **📫 Let's Connect! 📫**
 - **LinkedIn**: [Sai Chandu](https://www.linkedin.com/in/sai-chandu-400580296/)
-- **GitHub**: [saichandu415](https://github.com/SaiChandu2608))
+- **GitHub**: [SaiChandu2608](https://github.com/SaiChandu2608))
 - **Email**: sai.chandu2608@outlook.com
 
