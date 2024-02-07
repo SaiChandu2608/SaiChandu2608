@@ -2,15 +2,15 @@
 
 ## **✨ About Me in 30 Secs ✨**
 
-Data is my passion and my profession. As a Cloud and BI Engineer at Roots, I optimize data performance, create Azure Data Factory pipelines, and deliver impactful Power BI reports, transforming data into a strategic asset. I specialize in MDX and DAX queries, extracting valuable insights from SSAS cubes. I also leverage Azure Databricks for advanced analytics and data-driven solutions. With over three years of experience in the data field, I have honed my skills in various tools and technologies, such as SSIS, SSRS, SQL, Python, and Azure Data Lake. I ensure data quality, security, and governance, complying with regulatory standards and best practices. I collaborate with stakeholders, data scientists, and other teams, enabling data exploration and visualization. I'm always eager to learn new things and take on new challenges. Let's connect and explore how I can elevate your data analytics game.
+Data is my passion and my profession.Experienced Data Engineer, BI, and Azure Engineer with a proven track record of driving transformative initiatives leveraging cutting-edge technologies. With over 5 years of expertise, I excel in optimizing data processes and elevating business intelligence through Azure cloud solutions. My skills span across SSIS data integration, Azure DevOps, SSAS cube design, Azure Data Lake security, Power BI visualization, and more. I am adept at implementing high availability strategies, validating ETL workflows, and ensuring regulatory compliance. Proficient in scripting languages like Python and SQL, I bring innovative solutions to complex data challenges. With a Bachelor of Technology degree and hands-on experience in various cloud platforms, including AWS and GCP, I am committed to delivering robust data solutions that drive business growth and innovation.
 
-- 💻 Software Developer with a focus on data science and machine learning.
-- 🎓 Bachelor's in Computer Science and Engineering.
+- 💻 Software Developer with a focus on data engineering.
+- 🎓 Bachelor's in Electronics and Communications Engineering.
 - 🌟 Enthusiastic about solving complex problems and learning new technologies.
 - 🚀 Ready to leverage my skills to drive innovation and contribute to impactful projects.
 
 ## **📚 Projects 📚**
-- Check out some of my projects on [GitHub](https://github.com/saichandu415)!
+- Check out some of my projects on [GitHub](https://github.com/SaiChandu2608)
 
 ## **💼 Career Highlights 💼**
 - **Data Engineer** - Roots, Tornoto, ON (Aug 2022 - Present)
