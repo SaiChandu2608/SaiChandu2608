@@ -2,7 +2,7 @@
 
 ## **✨ About Me in 30 Secs ✨**
 
-I'm Sai Chandu, a passionate software developer with a keen interest in data science and machine learning. With a background in computer science and engineering, I bring a unique blend of technical skills and creativity to the table. I'm known for my problem-solving abilities and my dedication to delivering high-quality solutions. I firmly believe in the power of data-driven decision-making and enjoy exploring new ways to extract insights from data.
+Data is my passion and my profession. As a Cloud and BI Engineer at Roots, I optimize data performance, create Azure Data Factory pipelines, and deliver impactful Power BI reports, transforming data into a strategic asset. I specialize in MDX and DAX queries, extracting valuable insights from SSAS cubes. I also leverage Azure Databricks for advanced analytics and data-driven solutions. With over three years of experience in the data field, I have honed my skills in various tools and technologies, such as SSIS, SSRS, SQL, Python, and Azure Data Lake. I ensure data quality, security, and governance, complying with regulatory standards and best practices. I collaborate with stakeholders, data scientists, and other teams, enabling data exploration and visualization. I'm always eager to learn new things and take on new challenges. Let's connect and explore how I can elevate your data analytics game.
 
 - 💻 Software Developer with a focus on data science and machine learning.
 - 🎓 Bachelor's in Computer Science and Engineering.
@@ -13,9 +13,9 @@ I'm Sai Chandu, a passionate software developer with a keen interest in data sci
 - Check out some of my projects on [GitHub](https://github.com/saichandu415)!
 
 ## **💼 Career Highlights 💼**
-- **Software Engineer Intern** - XYZ Tech Solutions, Hyderabad (May 2022 - Aug 2022)
-- **Machine Learning Research Assistant** - ABC Research Lab, University of XYZ (Jan 2021 - Apr 2022)
-- **Web Developer** - Tech Innovations, Bangalore (Jun 2020 - Dec 2020)
+- **Data Engineer** - Roots, Tornoto, ON (Aug 2022 - Present)
+- **Associate Cloud and BI Engineer** - Mphasis, Bengaluru, India (Mar 2019 - Nov 2020)
+- **Azure and MSBI Developer** - Axis Bank, Mumbai, India (Nov 2020 - Jul 2022)
 
 ## **🛠️ Tech Stack 🛠️**
 - **Languages**: Python, JavaScript, Java
@@ -27,8 +27,10 @@ I'm Sai Chandu, a passionate software developer with a keen interest in data sci
 - **Bachelor of Technology in Computer Science and Engineering**, University of ABC, GPA: 3.8/4.0
 
 ## **👨‍💼 Certificates 👨‍💼**
-- **Deep Learning Specialization** - Coursera
-- **Python for Data Science and Machine Learning Bootcamp** - Udemy
+- **Power BI Data Modeling with DAX** - LinkedIn 
+- **Data Engineering Foundations** - LinkedIn
+- **Learning SnowflakeDB** - LinkedIn
+- **Data Engineering with AWS** - LinkedIn
 
 ## **📫 Let's Connect! 📫**
 - **LinkedIn**: [Sai Chandu](https://www.linkedin.com/in/saichandu415)
