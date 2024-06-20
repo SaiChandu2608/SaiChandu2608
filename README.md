@@ -26,10 +26,10 @@ Data is my passion and my profession.Experienced Data Engineer, BI, and Azure En
 ## **🎓 Education 🎓**
 - **Bachelor of Technology in Electronics and Communications Engineering**, Jawaharlal Nehru Technological University
 ## **👨‍💼 Certificates 👨‍💼**
-**Microsoft Azure Data Associate
-**Apache Kafka 
-**Apache Spark
-**Power Bi Data Modelling with Dax
+-**Microsoft Azure Data Associate
+-**Apache Kafka 
+-**Apache Spark
+-**Power Bi Data Modelling with Dax
 
 
 ## **📫 Let's Connect! 📫**
