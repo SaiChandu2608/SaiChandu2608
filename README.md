@@ -26,10 +26,11 @@ Data is my passion and my profession.Experienced Data Engineer, BI, and Azure En
 ## **🎓 Education 🎓**
 - **Bachelor of Technology in Electronics and Communications Engineering**, Jawaharlal Nehru Technological University
 ## **👨‍💼 Certificates 👨‍💼**
-- **Power BI Data Modeling with DAX** - LinkedIn 
-- **Data Engineering Foundations** - LinkedIn
-- **Learning SnowflakeDB** - LinkedIn
-- **Data Engineering with AWS** - LinkedIn
+**Microsoft Azure Data Associate
+**Apache Kafka 
+**Apache Spark
+**Power Bi Data Modelling with Dax
+
 
 ## **📫 Let's Connect! 📫**
 - **LinkedIn**: [Sai Chandu](https://www.linkedin.com/in/sai-chandu-400580296/)
